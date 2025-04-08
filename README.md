@@ -17,6 +17,9 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PraiwanX&theme=github" alt="Activity Graph" />
 </p>
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiwanX&langs_count=10&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 ---
 
 ## 💡 About Me
