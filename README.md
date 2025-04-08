@@ -4,18 +4,16 @@
 </p>
 
 ---
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraiwanX&show_icons=true&theme=radical" alt="My Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiwanX&langs_count=10&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
+<p align="top">
   <img src="https://komarev.com/ghpvc/?username=PraiwanX&color=blue&style=flat" alt="Profile views"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PraiwanX&show_icons=true&theme=radical" alt="My Stats"/>
+</p>
+
 <p align="center"> 
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiwanX&langs_count=10&layout=compact&theme=radical" alt="Top Languages"/>  
 </p>
 
 <p align="center">
