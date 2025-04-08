@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=flat" alt="TailwindCSS Badge"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraiwanX&show_icons=true&theme=radical" alt="My Stats"/>
 </p>
 
