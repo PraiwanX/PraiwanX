@@ -33,7 +33,6 @@
 </p>
 
 <p align="center">Technologies and tools I enjoy working with:</p>
-
 <table align="center">
   <tr>
     <td align="center" width="150"> <img src="https://skillicons.dev/icons?i=javascript,react,vue" alt="JavaScript, React, Vue"/><br/><sub><b>JavaScript / Frameworks</b></sub>
@@ -58,8 +57,6 @@
   </tr>
 </table>
 </details>
-
-
 
 ## 💡 About Me
 
