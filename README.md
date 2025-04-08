@@ -5,6 +5,7 @@
 
 ---
 <p align="top">
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat" alt="VS Code Badge"/>
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=flat" alt="TailwindCSS Badge"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="CSS3 Badge"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge"/>
