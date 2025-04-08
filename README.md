@@ -20,6 +20,10 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiwanX&langs_count=10&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=PraiwanX&show_icons=true&count_private=true&theme=radical" alt="My Stats"/>
+</p>
 ---
 
 ## 💡 About Me
