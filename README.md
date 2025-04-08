@@ -30,9 +30,9 @@
 <a href="mailto:praiwansunanta123@gmail.com">
   <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
-<summary>
-  <h2>🛠️ My Tech Stack & Tools</h2>
-</summary>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=javascript,typescript" alt="JavaScript & TypeScript"/><br/><sub><b>JavaScript/TypeScript</b></sub>
+</td>
 ## 💡 About Me
 
 ```yaml
