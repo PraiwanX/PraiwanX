@@ -30,14 +30,37 @@
 <a href="mailto:praiwansunanta123@gmail.com">
   <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
-<td align="center" width="120">
 
+
+<p align="center">Technologies and tools I enjoy working with:</p>
 
 <table align="center">
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,reactjs" alt="JavaScript & TypeScript & RectJs"/><br/><sub><b>JavaScript/TypeScript/RectJs</b></sub>
-</td>
+  <tr>
+    <td align="center" width="150"> <img src="https://skillicons.dev/icons?i=javascript,react,vue" alt="JavaScript, React, Vue"/><br/><sub><b>JavaScript / Frameworks</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=vite,tailwindcss" alt="Vite & Tailwind CSS"/><br/><sub><b>Build Tool & Styling</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=html,css" alt="HTML & CSS"/><br/><sub><b>Web Fundamentals</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP"/><br/><sub><b>Backend Language</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL & PostgreSQL (SQL)"/><br/><sub><b>Databases (SQL)</b></sub>
+      </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code"/><br/><sub><b>Code Editor</b></sub>
+    </td>
+  </tr>
+</table>
+</details>
+
+
+
 ## 💡 About Me
 
 ```yaml
