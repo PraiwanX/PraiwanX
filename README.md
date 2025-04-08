@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat" alt="React Badge"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git Badge"/>
-  <img src="https://komarev.com/ghpvc/?username=PraiwanX&color=blue&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=PraiwanX&color=blue&style=flat-square" alt="Profile views"/>
 </p>
 
 <p align="center">
@@ -30,11 +30,9 @@
 <a href="mailto:praiwansunanta123@gmail.com">
   <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9Evyhfj/giphy.gif" width="250">
-  <br>Happy Coding! 🎉
-</p>
-
+<summary>
+  <h2>🛠️ My Tech Stack & Tools</h2>
+</summary>
 ## 💡 About Me
 
 ```yaml
