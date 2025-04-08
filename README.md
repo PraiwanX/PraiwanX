@@ -36,30 +36,7 @@
 <table align="center">
 <tr>
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=javascript,typescript" alt="JavaScript & TypeScript"/><br/><sub><b>JavaScript/TypeScript</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react,nextjs" alt="React & Next.js"/><br/><sub><b>React/Next.js</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js & Express"/><br/><sub><b>Node.js/Express</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html,css" alt="HTML & CSS"/><br/><sub><b>HTML/CSS</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=tailwindcss,styledcomponents" alt="Tailwind & Styled Components"/><br/><sub><b>Styling</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="MongoDB & PostgreSQL"/><br/><sub><b>Databases</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git,github" alt="Git & GitHub"/><br/><sub><b>Version Control</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode,figma" alt="VS Code & Figma"/><br/><sub><b>Development Tools</b></sub>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,reactjs" alt="JavaScript & TypeScript & RectJs"/><br/><sub><b>JavaScript/TypeScript/RectJs</b></sub>
 </td>
 ## 💡 About Me
 
