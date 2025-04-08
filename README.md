@@ -16,6 +16,14 @@
   <img src="https://komarev.com/ghpvc/?username=PraiwanX&color=blue&style=flat-square" alt="Profile views"/>
 </p>
 
+<a href="[YOUR_PORTFOLIO_URL]" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio Badge"/>
+</a>
+
+<a href="mailto:praiwansunanta123@gmail.com">
+  <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraiwanX&show_icons=true&theme=radical" alt="My Stats"/>
 </p>
@@ -23,14 +31,6 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiwanX&langs_count=10&layout=compact&theme=radical" alt="Top Languages"/>  
 </p>
-
-<a href="[YOUR_PORTFOLIO_URL]" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio Badge"/>
-</a> 
-<a href="mailto:praiwansunanta123@gmail.com">
-  <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-</a>
-
 
 <p align="center">Technologies and tools I enjoy working with:</p>
 
