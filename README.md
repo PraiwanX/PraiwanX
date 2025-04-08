@@ -1,19 +1,16 @@
-<h1 align="center">Hi there! 👋 I'm KD231a</h1>
-
+<h1 align="center">Hi, I'm KD231a! 👋</h1>
 <p align="center">
-  🚀 Beginner Developer | 🧠 Learning Everyday | 💻 Building Cool Stuff
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Let's+Code+Something+Awesome!;Still+Learning...+But+Getting+Better!+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=I'm+a+Beginner+Developer;Learning+and+Building+Cool+Things;Join+Me+on+This+Journey!🔥" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 💡 About Me
 
 ```yaml
 Name: KD231a
-Status: Learning mode 🔥
-Goal: Become a badass full stack dev 😎
-Code Style: "Trial & Error until it works"
+Age: 17
+Focus: Web Development, JavaScript, React, Node.js
+Favorite Code Style: "Code, Debug, Repeat"
+Currently Learning: Full Stack Development 🌱
+Hobbies: Coding, Gaming, Learning New Tech 🕹️
