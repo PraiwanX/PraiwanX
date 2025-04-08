@@ -5,11 +5,16 @@
 
 ---
 <p align="top">
-  <img src="https://komarev.com/ghpvc/?username=PraiwanX&color=blue&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=flat" alt="TailwindCSS Badge"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=flat" alt="TailwindCSS Badge"/>
+  
 </p>
 
 <p align="center">
