@@ -1,42 +1,19 @@
-# 👋 Hey there, welcome to my GitHub!
+<h1 align="center">Hi there! 👋 I'm KD231a</h1>
 
-> *"Just getting started, but ready to learn and grow!"* 🚀
+<p align="center">
+  🚀 Beginner Developer | 🧠 Learning Everyday | 💻 Building Cool Stuff
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Let's+Code+Something+Awesome!;Still+Learning...+But+Getting+Better!+🔥" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🌱 Beginner coder, learning step by step
-- 💡 Curious about Full Stack Development
-- 🔧 Trying out HTML, CSS, JavaScript, and more
-- 🤝 Always open to tips and feedback!
-
----
-
-## 🔨 Skills I'm Learning
-
-| Frontend | Backend | Tools |
-|----------|---------|-------|
-| HTML / CSS | Node.js (basics) | Git & GitHub |
-| JavaScript | Express.js (learning) | VS Code |
-| React (in progress) | - | Terminal |
-
----
-
-## 🛠️ My Practice Projects
-
-- [ ] Personal portfolio website (HTML/CSS)
-- [ ] Mini e-commerce app (React + Tailwind)
-- [ ] Simple API with Node.js
-
----
-
-## 📬 Feel free to connect
-
-- GitHub: [@your-username](https://github.com/your-username)
-- Always happy to receive advice or encouragement 🙌
-
----
-
-> ❤️ Thanks for stopping by!  
-> I'm learning one commit at a time – let's grow together.
+```yaml
+Name: KD231a
+Status: Learning mode 🔥
+Goal: Become a badass full stack dev 😎
+Code Style: "Trial & Error until it works"
