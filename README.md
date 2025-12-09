@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm PraiwanX 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=I'm+a+Beginner+Developer;Learning+and+Building+Cool+Things;Join+Me+on+This+Journey!🔥" alt="Typing SVG" />
-</p>
-
 ---
 
 <p align="center">
@@ -19,9 +15,6 @@
 </p>
 
 <p align="center">
-  <a href="[YOUR_PORTFOLIO_URL]" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=Globe&logoColor=white" />
-  </a>
   <a href="mailto:praiwansunanta123@gmail.com">
     <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
