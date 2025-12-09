@@ -29,17 +29,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraiwanX&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiwanX&langs_count=10&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiwanX&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🛠️ Technologies and Tools I Enjoy Working With
+## 🛠️ Technologies and Tools
 
 <table align="center">
   <tr>
